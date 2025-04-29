@@ -349,7 +349,7 @@ const Index = () => {
                 <h3>Matriculation</h3>
                 <p className="institution">D.A.V. Public School, Bihar, India</p>
                 <p className="grade">Percentage: 93%</p>
-                <p>April 2008 - March 2018</p>
+                <p>April 2009 - March 2019</p>
               </div>
             </div>
           </div>
